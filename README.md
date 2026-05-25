@@ -7,11 +7,11 @@
 - [Giới thiệu](#-Giới-thiệu)
 - [Tính năng chính](#-Tính-năng-chính)
 - [Kiến trúc phần cứng](#-Kiến-trúc-phần-cứng)
-- [Kiến trúc phần mềm](#-kiến-trúc-phần-mềm)
-- [Hướng dẫn cài đặt](#-hướng-dẫn-cài-đặt)
-- [Hướng dẫn sử dụng](#-hướng-dẫn-sử-dụng)
-- [Cấu trúc project](#-cấu-trúc-project)
-- [Troubleshooting](#-troubleshooting)
+- [Kiến trúc phần mềm](#-Kiến-trúc-phần-mềm)
+- [Hướng dẫn cài đặt](#-Hớng-dẫn-cài-đặt)
+- [Hướng dẫn sử dụng](#-Hướng-dẫn-sử-dụng)
+- [Cấu trúc project](#-Cấu-trúc-project)
+- [Troubleshooting](#-Troubleshooting)
 
 ---
 
