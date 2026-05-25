@@ -4,9 +4,9 @@
 > Đại học Công nghệ - ĐHQG Hà Nội
 
 ## 📋 Mục lục
-- [Giới thiệu](#giới-thiệu)
-- [Tính năng chính](#tính-năng-chính)
-- [Kiến trúc phần cứng](#kiến-trúc-phần-cứng)
+- [Giới thiệu](#🎯-Giới-thiệu)
+- [Tính năng chính](#✨-Tính-năng-chính)
+- [Kiến trúc phần cứng](##Kiến-trúc-phần-cứng)
 - [Kiến trúc phần mềm](#kiến-trúc-phần-mềm)
 - [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
 - [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
@@ -47,7 +47,7 @@
 
 ---
 
-## ⚙️ Kiến trúc phần cứng
+## Kiến trúc phần cứng
 
 ### Thông số kỹ thuật chính
 
