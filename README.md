@@ -474,7 +474,7 @@ Project cuối kì nhập môn nhúng/
 | Thông tin | Chi tiết |
 |-----------|---------|
 | **Tên dự án** | Maze Solver Robot (Micromouse) |
-| **Môn học** | Nhập môn Nhúng (Embedded Systems) |
+| **Môn học** | Nhập môn thiết kế hệ thống Nhúng (Introduction to Embedded Systems) |
 | **Khóa** | 2024-2025 |
 | **Trường** | Đại học Công nghệ - ĐHQG Hà Nội |
 | **Ngôn ngữ** | C/C++ (embedded) |
