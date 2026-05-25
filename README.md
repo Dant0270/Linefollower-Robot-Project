@@ -4,14 +4,14 @@
 > Đại học Công nghệ - ĐHQG Hà Nội
 
 ## 📋 Mục lục
-- [Giới thiệu](#🎯-Giới-thiệu)
-- [Tính năng chính](#✨-Tính-năng-chính)
-- [Kiến trúc phần cứng](##Kiến-trúc-phần-cứng)
-- [Kiến trúc phần mềm](#kiến-trúc-phần-mềm)
-- [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
-- [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
-- [Cấu trúc project](#cấu-trúc-project)
-- [Troubleshooting](#troubleshooting)
+- [Giới thiệu](#-Giới-thiệu)
+- [Tính năng chính](#-Tính-năng-chính)
+- [Kiến trúc phần cứng](#-Kiến-trúc-phần-cứng)
+- [Kiến trúc phần mềm](#-kiến-trúc-phần-mềm)
+- [Hướng dẫn cài đặt](#-hướng-dẫn-cài-đặt)
+- [Hướng dẫn sử dụng](#-hướng-dẫn-sử-dụng)
+- [Cấu trúc project](#-cấu-trúc-project)
+- [Troubleshooting](#-troubleshooting)
 
 ---
 
